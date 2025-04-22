@@ -4,6 +4,8 @@
   import Exercicio1  from '@/components/Exercicio1.vue'
 import Exercicio2 from './components/Exercicio2.vue';
 import Exercicio3 from './components/Exercicio3.vue';
+import Exercicio4 from './components/Exercicio4.vue';
+import Exercicio5 from './components/Exercicio5.vue';
   
 
 </script>
@@ -12,6 +14,8 @@ import Exercicio3 from './components/Exercicio3.vue';
   <Exercicio1/>
   <Exercicio2/>
   <Exercicio3/>
+  <Exercicio4/>
+  <Exercicio5/>
 </template>
 
 <style scoped>
