@@ -24,7 +24,7 @@
     <input type="text" v-model="celsius" name="" id="">
     <br>
     <label for="">Fahrenheit</label>
-    <input type="text" :value="fahrenheit" disabled>
+    <input type="text" :value="fahrenheit">
     <br>
     <br>
     <hr>
